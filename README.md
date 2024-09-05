@@ -1,2 +1,4 @@
 # passwordmakerBot
-fe
+
+これはpasswordMakerのdiscordBotのコードです。
+面白く使ってください。
